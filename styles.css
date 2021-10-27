@@ -1,0 +1,24 @@
+/* style.css */
+
+body {
+    margin: 70px;
+}
+
+.noun {
+    color: green
+}
+
+.verb {
+    color: red
+}
+.adj {
+    color: yellow
+}
+.header {
+    text-align: center;
+    font-size: large
+}
+
+.frame {
+    display: none;
+}
